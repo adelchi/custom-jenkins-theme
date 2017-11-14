@@ -11,6 +11,10 @@ Downloaded from: https://cdn.rawgit.com/afonsof/jenkins-material-theme/gh-pages/
 	background-color: #ad1111 !important;
 }
 
+.task-icon-link {
+	background-color: none !important;
+}
+
 .bigtable td {
     vertical-align: top;
 }
