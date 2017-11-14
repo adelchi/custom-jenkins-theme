@@ -12,7 +12,7 @@ Downloaded from: https://cdn.rawgit.com/afonsof/jenkins-material-theme/gh-pages/
 }
 
 .task-icon-link {
-	background-color: none !important;
+	background-color: transparent !important;
 }
 
 .bigtable td {
