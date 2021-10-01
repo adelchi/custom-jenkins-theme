@@ -11,6 +11,6 @@
     vertical-align: top;
 }
 
-#header {
-	background-color: #ad1111 !important;
+.page-header {
+	background-color: red !important;
 }
