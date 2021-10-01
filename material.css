@@ -1,0 +1,11 @@
+#header .logo {
+    display: none !important;
+}
+
+.task-icon-link {
+	background-color: transparent !important;
+}
+
+.bigtable td {
+    vertical-align: top;
+}
