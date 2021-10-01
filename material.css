@@ -2,10 +2,7 @@
     display: none !important;
 }
 
-.task-icon-link {
-	background-color: transparent !important;
+.page-header {
+	background-color: royalblue !important;
 }
 
-.bigtable td {
-    vertical-align: top;
-}
